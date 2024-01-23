@@ -55,7 +55,6 @@ button {
 #search-button:hover {
     background-color: #5953ff;
     color: #e0c722;
-
 }
 
 .quadro {
@@ -67,7 +66,6 @@ button {
     background-color: #9febfe;
     position: relative;
     overflow: hidden;
-
 }
 
 span {
@@ -84,7 +82,6 @@ span {
     top: 13%;
     left: 30%;
     right: 1%;
-
 }
 
 .area {
@@ -93,7 +90,6 @@ span {
     overflow: hidden;
     display: flex;
     justify-content: space-between;
-
     box-sizing: border-box;
 }
 
@@ -104,23 +100,12 @@ span {
     border-radius: 10px;
 }
 
-.abas {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    text-align: right;
-
-
-}
-
 .abas li {
     display: inline-block;
     margin-right: 19px;
     margin-top: 300px;
     font-size: 16px;
 }
-
-
 
 .abas a {
     display: inline-block;
@@ -163,8 +148,6 @@ span {
     display: inline-block;
     border-radius: 25px;
 }
-
-
 
 .background-image {
     position: absolute;
@@ -244,7 +227,6 @@ span {
     transform: translate(-50%, -50%) scaleX(-1);
     animation: moveDuck 200s linear infinite;
 }
-
 
 @keyframes moveDuck {
 
